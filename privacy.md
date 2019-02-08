@@ -6,16 +6,25 @@ Downloading, accessing, or otherwise using the App indicates that you have read 
 This app may request your location information.  This information is used solely to select events in your geographic area to present to you.  This information is not stored or otherwise used.
 
 IBM may collect the following information through the App:
+
 a. Personal information you may provide to download and use the App, including your email address, name, and password;
+
 b. Information about your usage of the App, including crash logs and usage statistics
+
 Information about your device and its interaction with the App, including the type of mobile device you use with the App, its unique user ID, IP address, and operating system, and the type of mobile Internet browsers in use; and
+
 c. Information about the location of your device, including geo-location information
 
 IBM may use the information collected through this App in the following ways:
+
 a. To review the quality and improve the functionality of the App;
+
 b. To better improve the way the App works with your device;
+
 c. To create new Apps;
+
 d. To provide anonymized user analytics and industry benchmarking; and
+
 e. To share anonymized data with third parties.
 
 Provided that this information is not required to be retained pursuant to judicial proceeding, court order, or legal process, this information will be deleted when it is no longer needed to provide the services associated with the App, unless it has been anonymized and does not longer contained personally identifiable information.
